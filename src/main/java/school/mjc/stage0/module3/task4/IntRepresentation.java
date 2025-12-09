@@ -11,5 +11,6 @@ public class IntRepresentation {
         System.out.println((char)c);
         System.out.println((char)d);
 
+
     }
 }
